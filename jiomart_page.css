@@ -1,0 +1,136 @@
+.header{
+    background-color: skyblue   ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90px;;
+    margin: -10px -10px -10px -10px;
+    
+}
+#hamburger{
+    margin-left: -1200px;
+    position: fixed;
+}
+.title{
+    margin-left: -923px;
+    margin-top:5px;
+    display: flex;
+    height: 37px;
+    align-items: center;
+    width:178px;
+    position: fixed;
+}
+#jiomarttitle{
+    margin-top: 24px;
+    margin-left: 5px;
+}
+#beta{
+    font-size: 11px;
+    margin-top: 40px;
+    margin-left: 2px;
+}
+
+#location{
+    display: flex;
+    margin-right: 305px;
+    width: 330px;
+    position: fixed;
+
+}
+#localogo{
+    width: 10px;
+    height: 17px;
+    margin-right: 8px;
+}
+.searchbar{
+    background-color: white;
+    width: 338px;
+    height: 40px;
+    border-radius: 56px;
+    display: flex;
+    align-items: center;
+    margin-left: 581px;
+    position: fixed;
+}
+#searchlogo{
+    width: 16px;
+    height: 17px;
+    margin-left: 14px;
+}
+#search{
+    border: 0px;
+    width: 260px;
+    height: 39px;
+    margin-left: 5px;
+}
+#listlogo {
+    width: 30px;
+}
+#cartlogo {
+    width: 30px;
+    margin-left: 1010px;
+    position: fixed;
+}
+#userlogo{
+    width: 25px;
+    margin-left: 1150px;
+    position: fixed;
+}
+#name{
+    margin-left: 1265px;
+    width: 80px;
+    height: 25px;
+    margin-top: 24px;
+    font-size: 17px;
+    position: fixed;
+
+} 
+
+/* global css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* header css 
+ #header1{
+    width: 100%;
+    height: 10vh;
+    background-color: #0078ad;
+    
+}
+
+.logo{
+    width: 28%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+}
+
+.logo img{
+    width: 45px;
+    height: 43px;
+}
+
+.logo-img {
+    margin-right: 5px;   
+}
+
+.logo-text{
+    margin-left: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.logo-text p{
+    font-size: x-large;
+    color: aliceblue;
+    font-weight: 800;
+}
+
+.logo-text-beta{
+    font-size: xx-small;
+} */
