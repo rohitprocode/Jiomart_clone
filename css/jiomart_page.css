@@ -92,6 +92,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /*header css*/ 
@@ -103,12 +104,13 @@
 }
 
 .logo{
-    width: 28%;
+    width: 35%;
     height: 100%;
     justify-content: center;
     align-items: center;
     display: flex;
     padding: 10px;
+    margin-left: 100px;
 }
 
 .logo img{
@@ -122,7 +124,6 @@
 
 .logo-text{
     margin-left: 5px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 700;
 }
 
@@ -134,4 +135,75 @@
 
 .logo-text-beta{
     font-size: xx-small;
+}
+
+ .loca{
+    display: flex;
+    align-items: center;
+    width: 95vh;
+    height: 10vh;
+} 
+.location{
+    width: 45%;
+    height: 100%;
+    display: flex;
+    color: white;
+    font-weight: 625;
+    font-size:small;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+#locaimg{
+    width: 15px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.search1{
+    height: 10vh;
+    width: 164vh;
+    display: flex;
+    align-items: center;
+}
+
+.search{
+    width:345px;
+    height: 42px;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    border: 0cap;
+    border-radius: 3vh;
+    margin-left: 21vh;
+}
+
+#magnifine{
+    margin-left: 10px;
+    margin-right: 13px;
+}
+
+.search input{
+    width: 38vh;
+    height: 5.6vh;
+    border: 0px;
+    font-weight: 630;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#categories-logo{
+    width: 30px;
+    margin-right:14px
+}
+
+.cart1{
+    display: flex;
+    align-items: center;
+    width: 175vh;
+}
+
+.cart img{
+    width: 33px;
+    margin-left: 20px;
 }
