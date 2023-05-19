@@ -258,4 +258,21 @@
     font-size: 14px;
     font-weight: 600;
     list-style-type: none;
+    padding-right: 225px;
+  }
+
+  .body{
+    /* background-color: black; */
+  }
+  .container1{
+    width: 100%;
+    height: 55vh;
+    /* background-color: black; */
+  }
+
+  .banner img{
+    margin-left: -80px;
+    margin-top: 40px;
+    height: 44vh;
+    width: 216vh;
   }
