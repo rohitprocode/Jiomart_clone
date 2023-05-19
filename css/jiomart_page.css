@@ -261,18 +261,52 @@
     padding-right: 225px;
   }
 
-  .body{
-    /* background-color: black; */
-  }
   .container1{
     width: 100%;
-    height: 55vh;
+    height: 51vh;
     /* background-color: black; */
   }
 
-  .banner img{
+  .slider1 img{
     margin-left: -80px;
     margin-top: 40px;
-    height: 44vh;
+    height: 42vh;
     width: 216vh;
   }
+
+  .banner1{
+    width: 100%;
+    /* background-color: blue; */
+    height: 33vh;
+  }
+
+  .banner1 img{
+    width: 200vh;
+    height: 35vh;
+    margin-top: -2vh;
+    margin-left: 1.5vh;
+  }
+
+  .banner2_3{
+    /* background-color: greenyellow; */
+    width: 204vh;
+    height: 18vh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .imgcon{
+    display: flex;
+    justify-content:space-between;
+    width: 200vh;
+    height: 15vh;
+    margin-left:-8px;
+    /* background-color: red; */
+  }
+
+  .imgcon img{
+    width: 99vh;
+    height: 18vh;
+  }
+
+  
