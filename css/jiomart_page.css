@@ -266,13 +266,20 @@
 }
   .container1{
     width: 100%;
-    height: 51vh;
+    height: 50vh;
     /* background-color: black; */
+  }
+
+  .slider1{
+    width: 100%;
+    height: 50vh;
+    margin-top: 40px;
+    
   }
 
   .slider1 img{
     margin-left: -80px;
-    margin-top: 85px;
+    margin-top: 54px;
     height: 42vh;
     width: 216vh;
   }
@@ -281,6 +288,7 @@
     width: 100%;
     /* background-color: blue; */
     height: 42vh;
+    margin-top: -3vh;
   }
 
   .banner1 img{
