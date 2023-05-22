@@ -93,7 +93,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: black;
+    /* background-color: white; */
 }
 
 /*header css*/
@@ -344,17 +344,23 @@
  
   .foot{
     width: 102%;
-    height: 150vh;
+    height: 66vh;
   }
 
   #continueimg{
-    width: 198vh;
+    width: 200vh;
     height: 32vh;
     margin-left: 4vh;
 }
 
   #caresimg{
-    width: 198vh;
+    width: 200vh;
     height: 32vh;
     margin-left: 4vh;
+  }
+
+  footer{
+    background-color: #f5f5f5;
+    width: 206vh;
+    height: 86vh;
   }
