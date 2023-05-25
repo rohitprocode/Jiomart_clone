@@ -93,6 +93,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
     /* background-color: white; */
 }
 
@@ -112,12 +114,17 @@
     align-items: center;
     display: flex;
     padding: 10px;
-    margin-left: 100px;
+    margin-left: 100px; 
+}
+
+.logo a{
+    text-decoration: none;
 }
 
 .logo img {
     width: 45px;
     height: 43px;
+    
 }
 
 .logo-img {
@@ -220,10 +227,14 @@
     align-items: center;
 }
 
+.userfield a{
+    text-decoration: none;
+    color: white;
+}
+
 .userfield {
     width: 20vh;
     height: 35px;
-    color: white;
     display: flex;
     align-items: center;
 }
