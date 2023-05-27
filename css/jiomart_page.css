@@ -278,7 +278,7 @@
 }
 
   footer{
-    /* background-color: #f5f5f5; */
+    background-color: #f5f5f5;
     /* background-color: pink; */
     width: 100%;
     height: 68vh;
@@ -314,7 +314,7 @@
     display: flex;
     flex-direction: column;
     margin-top: 3vh;
-    padding: 3px;
+    padding-left: 7px
   }
 
   .footer-ul li{
@@ -322,7 +322,9 @@
     list-style-type: none;
     height: 6vh;
     font-weight: 600;
-  }
+    padding-top: 12px;
+    padding-left: 5px;
+}
 
   .footer-ul h4{
     color: black;
