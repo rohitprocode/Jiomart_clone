@@ -395,6 +395,12 @@
     font-size: 14px;
   }
 
+  .contact ul li a{
+    color: #0c5273;
+    font-weight: 700;
+    /* text-decoration: underline; */
+  }
+
   .contact h1{
     /* background-color: aqua; */
     width: 40vh;
