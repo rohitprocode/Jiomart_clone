@@ -299,20 +299,28 @@
     height: 50vh;
     margin-top: 4vh;
     display: flex;
-    justify-content: space-between;
     margin-left: 5vh;
   }
 
   .footer-ul{
-    background-color: white;
+    /* background-color: white; */
     width: 31vh;
     height: 50vh;
     list-style-type: none;
   }
 
+  .footer-ul ul{
+    height: 44vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3vh;
+  }
+
   .footer-ul li{
     color: rgba(0,0,0,.65);
     list-style-type: none;
+    height: 6vh;
+    font-weight: 600;
   }
 
   .footer-ul h4{
@@ -321,19 +329,19 @@
   }
 
   #footer-ul-a{
-    /* background-color: lemonchiffon; */
+    background-color: lemonchiffon;
   }
 
   #footer-ul-b{
-    /* background-color: white; */
+    background-color: white;
     
   }
 
   #footer-ul-c{
-    /* background-color: orange; */
+    background-color: orange;
     
   }
 
   #footer-ul-d{
-    /* background-color: green; */
+    background-color: green;
   }
