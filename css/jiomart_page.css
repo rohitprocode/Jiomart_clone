@@ -295,38 +295,45 @@
 
   .footer-top-main-list{
     background-color: red;
-    width: 118vh;
-    height: 49vh;
-    margin-top: 7vh;
+    width: 122vh;
+    height: 50vh;
+    margin-top: 4vh;
     display: flex;
     justify-content: space-between;
+    margin-left: 5vh;
   }
 
   .footer-ul{
     background-color: white;
-    width: 30vh;
-    height: 49vh;
+    width: 31vh;
+    height: 50vh;
     list-style-type: none;
   }
 
   .footer-ul li{
+    color: rgba(0,0,0,.65);
     list-style-type: none;
   }
 
+  .footer-ul h4{
+    color: black;
+    font-weight: 900;
+  }
+
   #footer-ul-a{
-    background-color: gray;
+    /* background-color: lemonchiffon; */
   }
 
   #footer-ul-b{
-    background-color: black;
+    /* background-color: white; */
     
   }
 
   #footer-ul-c{
-    background-color: orange;
+    /* background-color: orange; */
     
   }
 
   #footer-ul-d{
-    background-color: green;
+    /* background-color: green; */
   }
