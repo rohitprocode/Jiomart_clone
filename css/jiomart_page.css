@@ -299,12 +299,18 @@
     height: 49vh;
     margin-top: 7vh;
     display: flex;
+    justify-content: space-between;
   }
 
   .footer-ul{
     background-color: white;
-    width: 17vh;
+    width: 30vh;
     height: 49vh;
+    list-style-type: none;
+  }
+
+  .footer-ul li{
+    list-style-type: none;
   }
 
   #footer-ul-a{
@@ -313,10 +319,12 @@
 
   #footer-ul-b{
     background-color: black;
+    
   }
 
   #footer-ul-c{
     background-color: orange;
+    
   }
 
   #footer-ul-d{
