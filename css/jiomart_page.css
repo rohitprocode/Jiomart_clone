@@ -298,4 +298,27 @@
     width: 118vh;
     height: 49vh;
     margin-top: 7vh;
+    display: flex;
+  }
+
+  .footer-ul{
+    background-color: white;
+    width: 17vh;
+    height: 49vh;
+  }
+
+  # footer-ul-a{
+    background-color: gray;
+  }
+
+  # footer-ul-b{
+    background-color: black;
+  }
+
+  # footer-ul-c{
+    background-color: orange;
+  }
+
+  # footer-ul-d{
+    background-color: green;
   }
