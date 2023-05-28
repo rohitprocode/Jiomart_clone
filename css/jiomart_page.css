@@ -284,7 +284,9 @@
     height: 68vh;
     position: absolute;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
   }
 
   .footer-top{
@@ -372,6 +374,7 @@
     width: 40vh;
     height: 52vh;
     margin-top: 4vh;
+    padding-left: 4px;
   }
 
   .contact h2{
@@ -416,4 +419,11 @@
   }
   .download img{
     margin-top: 1vh;
+  }
+
+  .footer_divider{
+    height: 4px;
+    width: 15px;
+    align-self: normal;
+    border-top:1px solid black;
   }
