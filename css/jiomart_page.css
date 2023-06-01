@@ -448,3 +448,58 @@
   .browser span{
     color: rgba(0,0,0,.65);
   }
+
+
+  /* Medaia Query */
+
+  @media (min-width:480px) and (max-width:768px){
+
+    .body{
+      background-color: #0078ad;
+    }
+
+    .header1{
+      width: 100%;
+      background-color: red;
+    }
+
+    .listcate{
+      width: 100%;
+    }
+
+    .user{
+      width: 100%;
+    }
+
+    .cart1{
+      width: 100%;
+    }
+
+    .search1{
+      width: 100%;
+    }
+
+    .loca{
+      width: 100%;
+    }
+
+    .logo{
+      width: 100%;
+    }
+
+    .logo-img{
+      width: 100%;
+    }
+
+    .logo-text{
+      width: 100%;
+    }
+
+    .location{
+      width: 100%;
+    }
+
+    .search{
+      width: 100%;
+    }
+  }
